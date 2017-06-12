@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://lsimopoulos.github.io/blog"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai" # Use "igor" for light backgrounds
